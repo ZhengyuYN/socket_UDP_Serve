@@ -1,4 +1,4 @@
-#udp2.py Server服务器端
+#socket_udp2.py Server服务器端
 #!/usr/bin/env python3
 # coding: utf-8
 
